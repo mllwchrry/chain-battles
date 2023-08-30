@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Sample Dynamic NFT Project 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+A fully dynamic NFT with on-chain metadata that changes based on your interactions with it.
+Deployed on Polygon Mumbai (0xA87FCAef206e2d039c6Ca985E735eCc09f7BDaDc)
